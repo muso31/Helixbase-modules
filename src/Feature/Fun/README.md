@@ -3,4 +3,4 @@
 
 * A module for [Helix Base](https://github.com/muso31/Helixbase)
 * Just for fun - currently adds logos to the Unicorn console
-* Tested up until Sitecore 9.3
+* Sitecore version 9.3
