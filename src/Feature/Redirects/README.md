@@ -8,4 +8,4 @@
 #### Instructions
 
 * Install the [Sitecore Package](https://github.com/muso31/Helixbase-modules/tree/master/src/Feature/Redirects/sitecore%20package)
-* To add a 301 redirect simply add a redirect item to the Redirect Items folder found in your site Global folder.
+* To add a 301 redirect simply add a redirect item to the Redirect Items folder found in your site Global folder _/sitecore/content/Helixbase/Global/Redirect Items_
