@@ -1,6 +1,6 @@
+<img src="https://nshackblog.files.wordpress.com/2017/02/helixbase1.png" height="154px" width="200px" /><br />
+#### Helix Base Fun Module:
 
-#### Helibase Fun Module:
-
-* A module for [HelixBase](https://github.com/muso31/Helixbase)
+* A module for [Helix Base](https://github.com/muso31/Helixbase)
 * Just for fun - currently adds logos to the Unicorn console
 * Tested up until Sitecore 9.3
