@@ -4,6 +4,7 @@
 * A module for [Helix Base](https://github.com/muso31/Helixbase)
 * 301 redirect module
 * Sitecore version 9.3
+* Created by [Neil Shack](https://github.com/muso31/)
 
 #### Instructions
 
