@@ -3,10 +3,11 @@
 
 * A module for [Helix Base](https://github.com/muso31/Helixbase)
 * 301 redirect module
+* This module allows a user to add 301 redirects to the Sitecore instance
 * Sitecore version 9.3
 * Created by [Neil Shack](https://github.com/muso31/)
 
-#### Instructions
+#### Setup instructions
 
 * Deploy the module and run unicorn
 * Install the [Sitecore Package](https://github.com/muso31/Helixbase-modules/tree/master/src/Feature/Redirects/sitecore%20package)

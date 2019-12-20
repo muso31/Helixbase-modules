@@ -3,11 +3,12 @@
 
 * A module for [Helix Base](https://github.com/muso31/Helixbase)
 * [NAME OF MODULE]
+* [MODULE PURPOSE/DESCRIPTION]
 * [SITECORE VERSION]
 * [CREATED BY - NAME AND LINK]
 
-#### Instructions
+#### Setup instructions
 
 * e.g. Deploy the module and run unicorn
 * [LINK TO SITEORE PACKAGE]
-* [INSTRUCTIONS ON MODULE USAGE]
+* [FURTHER INSTRUCTIONS ON MODULE USAGE]
