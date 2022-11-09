@@ -10,5 +10,5 @@ A repository to store modules that can be used with the Helix Base repository (o
 
 * Your module should follow the frameworks/conventions used in Helix Base e.g.:
   * use the Helixbase namespace - Helixbase.Feature.* for example
-  * use Unicorn if serializing items
-  * use Glass if mapping data, (you may wish to used the [Foundation Repositories](https://github.com/muso31/Helixbase/tree/master/src/Foundation/Content/website/Repositories))
+  * use SCS if serializing items
+  * use Glass if mapping data for MVC modules, (you may wish to use the [Foundation Repositories](https://github.com/muso31/Helixbase/tree/master/src/Foundation/Content/website/Repositories))
